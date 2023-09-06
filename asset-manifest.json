@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Flags-World/static/css/main.69283caa.css",
+    "main.js": "/Flags-World/static/js/main.d233d224.js",
+    "static/media/main.jpg": "/Flags-World/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/Flags-World/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/Flags-World/index.html",
+    "main.69283caa.css.map": "/Flags-World/static/css/main.69283caa.css.map",
+    "main.d233d224.js.map": "/Flags-World/static/js/main.d233d224.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69283caa.css",
+    "static/js/main.d233d224.js"
+  ]
+}
